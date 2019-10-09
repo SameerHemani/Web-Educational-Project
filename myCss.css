@@ -1,0 +1,54 @@
+html{
+	
+	background-size: cover;
+	height: 100%;
+	background-image: url(Images/BG.jpeg);
+}
+
+h1{
+	color: #666;
+	font-family: "Harlow Solid Italic";
+	font-size: 48px;
+}
+
+h1:hover{
+	color: #C00;
+	font-size:54px;
+}
+
+#top1{
+	font-weight: bold;
+	color: #F63;
+	font-size: 17px;
+	}
+.fottable
+{
+	color:white;
+	
+}
+body{
+	padding: 10px;
+	font-size: 15px;
+	font-family: "Times New Roman", Times, serif;
+	}
+#hov:hover {
+	
+	color: #C00;
+}
+.Answer {
+	color: #C00;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 23px;
+}
+
+
+.TabBG {
+	
+	-webkit-box-shadow: 4px 14px 36px 30px rgba(27,30,13,0.95); 
+box-shadow: 4px 14px 36px 30px rgba(27,30,13,0.95);
+	background-image: url(Images/Table%20BG.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
+}
